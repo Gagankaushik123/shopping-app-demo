@@ -37,14 +37,14 @@ h1 {
   background: #ddd;
 }
 
-/* Product Grid */
+
 .product-grid {
   display: grid;
   gap: 2rem;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
 
-/* Product Card */
+
 .product-card {
   background: #952929;
   border-radius: 8px;
